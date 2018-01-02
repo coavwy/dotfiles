@@ -1,0 +1,7 @@
+# Singularity
+
+vagrant init singularityware/singularity-2.4
+vagrant up
+vagrant ssh
+
+singularity help
