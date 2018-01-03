@@ -1,3 +1,5 @@
 [user]
 	email = coavwy@gmail.com
 	name = Alexander Usov
+[push]
+	default = simple
