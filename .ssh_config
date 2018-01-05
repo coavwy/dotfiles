@@ -1,0 +1,3 @@
+HashKnownHosts no
+ControlPersist 10m
+SendEnv LANG LC_* COAVWY
