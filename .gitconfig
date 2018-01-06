@@ -3,3 +3,6 @@
 	name = Alexander Usov
 [push]
 	default = simple
+[alias]
+	s = status -s
+	tags = tag -l
