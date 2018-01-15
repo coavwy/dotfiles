@@ -1,3 +1,10 @@
+# Bash
+
+echo server1
+^server1^server2^ #last
+!?server1?:s/server1/server2/ #search
+!?server1?:s/server1/server2/:p #test
+
 # Singularity
 
 vagrant init singularityware/singularity-2.4
